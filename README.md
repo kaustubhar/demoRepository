@@ -1,2 +1,0 @@
-# demoRepository
-For demo purpose
